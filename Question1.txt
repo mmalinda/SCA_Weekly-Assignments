@@ -1,0 +1,2 @@
+BillingCity,"SUM(""Total"")"
+Prague,90.24
